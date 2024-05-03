@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import com.bean.Employee;
 
-/* *
+/**
  * @author Hasnain
  */
 
