@@ -1,5 +1,4 @@
 package com.bean;
-
 public class Employee {
 
 	private String firstName;
