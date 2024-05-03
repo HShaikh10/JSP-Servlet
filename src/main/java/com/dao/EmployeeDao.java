@@ -4,11 +4,9 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import com.bean.Employee;
-
 /**
  * @author Hasnain
  */
-
 public class EmployeeDao {
 
 	// Method for Employee Registration

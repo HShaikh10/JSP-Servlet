@@ -7,11 +7,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import com.bean.Employee;
 import com.dao.EmployeeDao;
-
 /**
  * @author Hasnain
  */
-
 @WebServlet("/Register")
 public class EmployeeServlet extends HttpServlet {
 
